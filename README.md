@@ -211,6 +211,7 @@ Fare: 300.00
 Enter your choice: 4
 
 ============== Snacks Menu ==============
+
 0.      Tea----> 10.Rs
 1.      Coffee----> 20.Rs
 2.      Soft Drinks----> 50.Rs
@@ -224,16 +225,21 @@ Enter your choice: 4
 100. EXIT--->
 
 Enter your choice (0-9) or 100 to EXIT: 2
+
 Enter Quantity: 2
 
 You ordered 2 x Soft Drinks(s).
+
 Current total: 100 Rs
 
 Order more or enter 10 to EXIT
+
 Enter your choice (0-9) or 100 to EXIT: 4
+
 Enter Quantity: 2
 
 You ordered 2 x Chips(s).
+
 Current total: 180 Rs
 
 Order more or enter 10 to EXIT
