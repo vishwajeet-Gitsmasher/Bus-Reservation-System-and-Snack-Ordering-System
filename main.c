@@ -193,7 +193,7 @@ void displaySnacks(struct Snack snacks[],int numSnacks){
     for(int i=0;i<numSnacks;i++){
         printf("%d.\t%s----> %d.Rs\n",snacks[i].snackId,snacks[i].snackName,snacks[i].snackPrice);
     }
-    printf("100.\tEXIT--->\n");
+    printf("100.\tEXIT\n");
 }
 
 // Function to buy snacks
