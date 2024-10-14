@@ -146,6 +146,7 @@ You can create more users and admins through the system menus.
 3. Create User Account
 4. Create Admin Account
 5. EXIT
+
 Enter your choice: 1
 
 Enter username: user1
@@ -163,6 +164,7 @@ Login successful!
 5. Customer Support
 6. Available Buses
 7. Logout
+
 Enter your choice: 1
 
 Enter Bus Number: 101
@@ -182,11 +184,15 @@ Booking successful! 2 seats booked on Bus Number 101.
 5. Customer Support
 6. Available Buses
 7. Logout
+
 Enter your choice: 2
 
 Enter Bus Number: 101
+
 Enter Number of Seats to Cancel: 1
+
 Cancellation successful! 1 seats canceled on Bus Number 101.
+
 
 === User Menu ===
 1. Book a Ticket
@@ -196,16 +202,23 @@ Cancellation successful! 1 seats canceled on Bus Number 101.
 5. Customer Support
 6. Available Buses
 7. Logout
+
 Enter your choice: 3
 
 Enter Bus Number: 103
 
 Bus Number: 103
+
 Source: City E
+
 Destination: City F
+
 Total Seats: 30
+
 Available Seats: 30
+
 Fare: 300.00
+
 
 === User Menu ===
 1. Book a Ticket
@@ -215,6 +228,7 @@ Fare: 300.00
 5. Customer Support
 6. Available Buses
 7. Logout
+
 Enter your choice: 4
 
 ============== Snacks Menu ==============
@@ -229,7 +243,7 @@ Enter your choice: 4
 7.      Chocolate----> 20.Rs
 8.      Pastries----> 30.Rs
 9.      Popcorn----> 50.Rs
-100. EXIT--->
+100.    EXIT--->
 
 Enter your choice (0-9) or 100 to EXIT: 2
 
@@ -254,6 +268,7 @@ Order more or enter 10 to EXIT
 Enter your choice (0-9) or 100 to EXIT: 100
 
 Your total bill is: 180 Rs
+
 Thank you for your order!
 
 === User Menu ===
@@ -264,15 +279,21 @@ Thank you for your order!
 5. Customer Support
 6. Available Buses
 7. Logout
+
 Enter your choice: 5
 
 Contact Information:
 --------------------
 Phone Number (Main Office): 9348848383
+
 Alternate Contact: 9876543210
+
 Email ID: contact@company.com
+
 Customer Support Email: support@company.com
+
 Website: www.companybus.com
+
 
 
 === User Menu ===
@@ -283,12 +304,16 @@ Website: www.companybus.com
 5. Customer Support
 6. Available Buses
 7. Logout
+
 Enter your choice: 6
 
 Available Buses:
 Bus Number: 101, Source: City A, Destination: City B, Available Seats: 49
+
 Bus Number: 102, Source: City C, Destination: City D, Available Seats: 40
+
 Bus Number: 103, Source: City E, Destination: City F, Available Seats: 30
+
 
 === User Menu ===
 1. Book a Ticket
@@ -298,6 +323,7 @@ Bus Number: 103, Source: City E, Destination: City F, Available Seats: 30
 5. Customer Support
 6. Available Buses
 7. Logout
+
 Enter your choice: 7
 
 # Admin Login Testing
@@ -308,10 +334,13 @@ Enter your choice: 7
 3. Create User Account 
 4. Create Admin Account
 5. EXIT
+
 Enter your choice: 2   
 
 Enter admin name: admin1
+
 Enter password: adminpass1
+
 
 Admin login successful!
 
@@ -321,24 +350,21 @@ Admin login successful!
 3. Add Snack
 4. Delete Snack
 5. Exit
+
 Enter your choice: 1
 
 Enter Bus Number: 104
+
 Enter Source: City G
+
 Enter Destination: City H
+
 Enter Total Seats: 50
+
 Enter Fare: 500
+
 Bus added successfully!
 
-=== Admin Menu ===
-1. Add Bus
-2. Delete Bus
-3. Add Snack
-4. Delete Snack
-5. Exit
-Enter your choice: 2
-Enter the Bus Number to delete: 104
-Bus with number 104 successfully deleted.
 
 === Admin Menu ===
 1. Add Bus
@@ -346,22 +372,31 @@ Bus with number 104 successfully deleted.
 3. Add Snack
 4. Delete Snack
 5. Exit
+
+Enter your choice: 2
+
+Enter the Bus Number to delete: 104
+
+Bus with number 104 successfully deleted.
+
+
+=== Admin Menu ===
+1. Add Bus
+2. Delete Bus
+3. Add Snack
+4. Delete Snack
+5. Exit
+
 Enter your choice: 3
 
 Enter Snack ID: 10
+
 Enter Snack Name: Burger
+
 Enter Snack Price: 100
+
 Snack added successfully!
 
-=== Admin Menu ===
-1. Add Bus
-2. Delete Bus
-3. Add Snack
-4. Delete Snack
-5. Exit
-Enter your choice: 4
-Enter the SnackID to delete snack: 10
-Snack with SnackID 10 successfully deleted.
 
 === Admin Menu ===
 1. Add Bus
@@ -369,6 +404,21 @@ Snack with SnackID 10 successfully deleted.
 3. Add Snack
 4. Delete Snack
 5. Exit
+
+Enter your choice: 4
+
+Enter the SnackID to delete snack: 10
+
+Snack with SnackID 10 successfully deleted.
+
+
+=== Admin Menu ===
+1. Add Bus
+2. Delete Bus
+3. Add Snack
+4. Delete Snack
+5. Exit
+
 Enter your choice: 5
 
 # Create User Account Testing
@@ -379,9 +429,13 @@ Enter your choice: 5
 3. Create User Account 
 4. Create Admin Account
 5. EXIT
-Enter your choice: 3   
+
+Enter your choice: 3
+
 Enter User Name : vishwajeet
+
 Enter Password : pass123
+
 
 User Successfully Created
 
@@ -391,10 +445,13 @@ User Successfully Created
 3. Create User Account
 4. Create Admin Account
 5. EXIT
+
 Enter your choice: 1
 
 Enter username: vishwajeet
+
 Enter password: pass123
+
 
 Login successful!
 
@@ -406,9 +463,13 @@ Login successful!
 3. Create User Account 
 4. Create Admin Account
 5. EXIT
+
 Enter your choice: 4   
+
 Enter Admin Name : admin4
+
 Enter Password : adminpass4
+
 
 Admin Successfully Created
 
@@ -418,10 +479,13 @@ Admin Successfully Created
 3. Create User Account
 4. Create Admin Account
 5. EXIT
+
 Enter your choice: 2
 
 Enter admin name: admin4
+
 Enter password: adminpass4
+
 
 Admin login successful!
 
@@ -433,6 +497,7 @@ Admin login successful!
 3. Create User Account 
 4. Create Admin Account
 5. EXIT
+
 Enter your choice: 5   
 
 Exiting program. Goodbye!
