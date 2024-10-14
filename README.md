@@ -121,6 +121,7 @@ The program comes pre-initialized with the following sample accounts:
 # Sample Admins:
 1) adminName: admin1, password: adminpass1
 2) adminName: admin2, password: adminpass2
+
 You can create more users and admins through the system menus.
 
 # Limitations:
@@ -148,7 +149,9 @@ You can create more users and admins through the system menus.
 Enter your choice: 1
 
 Enter username: user1
+
 Enter password: pass1
+
 
 Login successful!
 
@@ -163,9 +166,13 @@ Login successful!
 Enter your choice: 1
 
 Enter Bus Number: 101
+
 Enter Number of Seats: 2
+
 Total fare for 2 seats = 1000.00
+
 Booking successful! 2 seats booked on Bus Number 101.
+
 
 === User Menu ===
 1. Book a Ticket
