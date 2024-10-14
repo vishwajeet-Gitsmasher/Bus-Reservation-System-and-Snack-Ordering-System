@@ -243,7 +243,7 @@ Enter your choice: 4
 7.      Chocolate----> 20.Rs
 8.      Pastries----> 30.Rs
 9.      Popcorn----> 50.Rs
-100.    EXIT--->
+100.      EXIT--->
 
 Enter your choice (0-9) or 100 to EXIT: 2
 
@@ -308,6 +308,7 @@ Website: www.companybus.com
 Enter your choice: 6
 
 Available Buses:
+
 Bus Number: 101, Source: City A, Destination: City B, Available Seats: 49
 
 Bus Number: 102, Source: City C, Destination: City D, Available Seats: 40
