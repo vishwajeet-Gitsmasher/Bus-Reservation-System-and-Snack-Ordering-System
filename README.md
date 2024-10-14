@@ -243,8 +243,9 @@ Enter your choice: 4
 7.      Chocolate----> 20.Rs
 8.      Pastries----> 30.Rs
 9.      Popcorn----> 50.Rs
+    
 
-100.      EXIT
+100 .      EXIT
 
 Enter your choice (0-9) or 100 to EXIT: 2
 
